@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Xolverr
 - 👀 I’m interested in robotics and video game dev
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me - njmanhardt@gmail.com
